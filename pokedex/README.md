@@ -14,7 +14,7 @@ Essa Pokédex é uma aplicação web que possui 3 páginas (Home, Pokédex e Det
 
 <br>
 
-[![GitHub]()]
+[![GitHub](https://github.com/j0rdanaaa)]
 
 <br>
 
@@ -22,7 +22,13 @@ Essa Pokédex é uma aplicação web que possui 3 páginas (Home, Pokédex e Det
 
 <br>
 
-[![Pokedex]()]
+[![Pokedex](https://labenu-easley-jordana-goes-pokedex.surge.sh/)]
+
+## Prints das páginas da Pokédex:
+
+
+
+
 
 ## Funcionalidades
 
